@@ -1,0 +1,18 @@
+{
+
+ "botOwner":"378866572124618770",
+ "botPrefix":"m?",
+ "botToken":"",
+ "guildID":"842950356510048306",
+ "botVoiceChannelID":"842950359634673689",
+ "logChannelID":"",
+ "channelGuard":true,
+ "serverGuard":true,
+ "botGuard":true,
+ "banGuard":true,
+ "kickGuard":true,
+ "whitelist":[],
+ "boosterRole":"",
+ "jailRole":""
+ 
+}

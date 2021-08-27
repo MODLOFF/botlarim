@@ -1,0 +1,17 @@
+{
+  "name": "MODLOFF-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modloff.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "MODLOFF",
+  "license": "ISC"
+}
