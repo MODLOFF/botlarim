@@ -4,4 +4,4 @@ Eski zamanlarda kullandığım botlarımı paylaşıyorum **star** atmayı unutm
 
 SerendiaSquad Discord Sunucusuna Gelmek İçin 
 
-https://discord.gg/serendi
+https://discord.gg/serendia
