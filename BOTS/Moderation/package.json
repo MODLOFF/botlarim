@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "discord.js": "^12.5.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^5.11.14",
     "ms": "^2.1.3"
